@@ -28,4 +28,4 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## API Routes
 
-I'm using Random [https://randomuser.me/api/](https://randomuser.me/api/) API to generate random users.
+I'm using Random [https://randomuser.me](https://randomuser.me) API to generate random users.
