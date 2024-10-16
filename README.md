@@ -1,4 +1,4 @@
-This is a Random User Generator that generates random users with their profile pictures and names.
+This is a Random User Generator that generates random users with their profile picture, names, email, contact, etc.
 
 Also, I added a Refetch button to refetch the data from the API.
 
