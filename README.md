@@ -2,6 +2,8 @@ This is a Random User Generator that generates random users with their profile p
 
 Also, I added a Refetch button to refetch the data from the API.
 
+[![Website Status](https://api.netlify.com/api/v1/badges/3850c887-dbfb-4d5e-8269-8e56ff0153cc/deploy-status)](https://app.netlify.com/sites/user-info-generator/deploys)
+
 ## Getting Started
 
 First, run the development server:
